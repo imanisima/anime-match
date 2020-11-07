@@ -17,3 +17,5 @@ Although the classification model we are building is Anime, it could also be app
 ## Dataset
 ---
 The datasets uses in this project are raw transcripts from [Kistunekko](https://kitsunekko.net). It contains transcripts from over 2000 anime in 4 languages: English, Japanese, Chinese, and Korean. For the purposes of this project, we will be sticking with English.
+
+Transcipts can be found in the [/content/drive/My Drive/Colab Notebooks/transcripts]() path.
