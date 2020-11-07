@@ -1,4 +1,6 @@
+__Note__: If you cannot view the code, go to Readme > readme.md. This is the latest code for the prototype
 # 👾 Anime Match 👾
+v1.2
 ----
 A multi-label classification model that uses transcipts from Anime to filter out specific themes such as Death, Romance, and Supernatural. 
 
